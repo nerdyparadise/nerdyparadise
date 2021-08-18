@@ -3,7 +3,7 @@
 - If you want to check out my scripts, please click on my "roblox-scripts" repository!
 - Have a good day!
 
-If you are a roblox developer reading this, MAKE A ANTICHEAT RN.
+if you wanna cry about shit like my code being bad, make some urself then if you are so pissed over it
 
 <!---
 nerdyparadise/nerdyparadise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
